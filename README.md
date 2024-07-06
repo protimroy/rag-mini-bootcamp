@@ -96,7 +96,7 @@ Go to OpenAI API settings. Create a new API key and copy it to the `.env` file. 
 
 ## Pinecone VectorDB Setup
 Create a Pinecone account. Create a new index.
-- Index Name: something like "tobys-sandbox"
+- Index Name: "textsplits"
 - Configuration: Setup by model > text-embedding-3-small
 - Capacity Mode: serverless
 - Cloud Provider: doesn't matter
